@@ -1,2 +1,6 @@
 language = "javascript"
-run = ".replit"
+run = ""
+
+
+console.log("hello")
+
