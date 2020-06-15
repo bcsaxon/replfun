@@ -2,5 +2,5 @@ language = "javascript"
 run = ""
 
 
-console.log("hello w0orld")
+console.log("hello world")
 
